@@ -1,5 +1,5 @@
 # RaspberryPi
   Using Python to
-  1. PiCamera 
-  ## - video recording
-  ## - take picture 
+  1. PiCamera
+  2. video recording
+  3. take picture 
